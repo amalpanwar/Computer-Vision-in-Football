@@ -35,7 +35,7 @@ This project leverages advanced AI models and computer vision techniques to anal
 ## Sample Annotation
 Below is a sample image demonstrating the annotated output:
 
-![Annotated Football Pitch](https://via.placeholder.com/800x400?text=Annotated+Football+Pitch+Visualization)
+![Annotated Football Pitch](Sample_annotated.png)
 
 - Black circles: **Elgin City players**
 - Red circles: **Bonnyrigg Rose players**
