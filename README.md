@@ -39,8 +39,8 @@ Below is a sample image demonstrating the annotated output:
 
 - Black circles: **Elgin City players**
 - Red circles: **Bonnyrigg Rose players**
-- Gold-edged circle: **Scorer**
-- Arrows: **Pass direction**
+- Yellow circle: **Refree**
+  
 
 ---
 
