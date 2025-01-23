@@ -103,5 +103,5 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-For any queries, please reach out to [your_email@example.com].
+For any queries, please reach out to [panwar.amal1995@gmail.com].
 
