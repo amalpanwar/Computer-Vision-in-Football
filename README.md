@@ -63,6 +63,10 @@ Below is a sample image demonstrating the annotated output:
 5. **Data Storage**
    - Extracted data is saved in CSV files, which can be analyzed to review specific match events or timestamps.
 
+6. **Data Visualisation**
+   - Analysed the data, for example: Animated Visualization of Soccer Pass Sequences with Player Movements and Ball Transitions.
+
+
 ---
 
 ## Challenges
