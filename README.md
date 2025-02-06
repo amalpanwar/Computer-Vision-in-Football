@@ -65,6 +65,7 @@ Below is a sample image demonstrating the annotated output:
 
 6. **Data Visualisation**
    - Analysed the data, for example: Animated Visualization of Soccer Pass Sequences with Player Movements and Ball Transitions.
+     ![Soccer Pass Animation](soccer_animation.gif)
 
 
 ---
